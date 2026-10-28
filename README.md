@@ -1,4 +1,4 @@
-Android 10 Global Transparency LSPosed Module (Redmi 9A Specialized Edition)
+Android 10 Global Transparency Xposed/LSPosed Module (Redmi 9A Specialized Edition)
 
 This is a lightweight global transparency background LSPosed module specifically developed for Android 10 (deeply optimized and tuned based on Redmi 9A / MIUI 12).
 By directly hooking the system's low-level window attributes (Theme / Style), this module achieves a seamless transparent look without running persistent background services. It features zero idle RAM consumption and places no rendering burden on low-end processors.
